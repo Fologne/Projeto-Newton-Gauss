@@ -12,6 +12,7 @@ O código foi desenvolvido com foco em clareza, modularização e aplicação pr
 ## 📁 Estrutura do Projeto
 
 📦 MetodoNumerico-C
+
 ┣ 📜 main.c # Menu principal e integração dos métodos
 
 ┣ 📜 newton.c # Implementação do método de Newton-Raphson
