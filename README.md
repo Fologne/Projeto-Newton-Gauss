@@ -13,9 +13,14 @@ O código foi desenvolvido com foco em clareza, modularização e aplicação pr
 
 📦 MetodoNumerico-C
 ┣ 📜 main.c # Menu principal e integração dos métodos
+
 ┣ 📜 newton.c # Implementação do método de Newton-Raphson
+
 ┣ 📜 gauss.c # Implementação do método de Gauss-Seidel
+
 ┣ 📜 projeto.h # Declarações de funções e constantes
+
 ┣ 📜 main.exe # Executável gerado (Windows)
+
 ┗ 📜 README.md # Documentação do projeto
 
