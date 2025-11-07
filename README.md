@@ -19,6 +19,13 @@ O código foi desenvolvido com foco em clareza, modularização e aplicação pr
 
 ┣ 📜 gauss.c # Implementação do método de Gauss-Seidel
 
+
+👨‍💻 Autor
+
+**[Gabriel Foloni](https://github.com/Fologne)**
+
+Projeto desenvolvido para fins acadêmicos.
+
 ┣ 📜 projeto.h # Declarações de funções e constantes
 
 ┣ 📜 main.exe # Executável gerado (Windows)
