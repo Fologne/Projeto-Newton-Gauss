@@ -93,17 +93,7 @@ Ordem e coeficientes da matriz para o método de Gauss
 
 👨‍💻 Autor
 
-Desenvolvido por Gabriel Foloni
-Repositório: https://github.com/Fologne
-👨‍💻 Autor
-
 **[Gabriel Foloni](https://github.com/Fologne)**
 
 Projeto desenvolvido para fins acadêmicos.
-
-┣ 📜 projeto.h # Declarações de funções e constantes
-
-┣ 📜 main.exe # Executável gerado (Windows)
-
-┗ 📜 README.md # Documentação do projeto
 
